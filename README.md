@@ -2,19 +2,37 @@
 
 # 🎮 Mona Mayhem
 
-**VS Code & GitHub Copilot CLI Workshop** — Build a GitHub Contribution Battle Arena
+> **Build a GitHub Contribution Battle Arena** — a VS Code & GitHub Copilot CLI workshop
 
-A workshop template for building a retro arcade-themed website with Astro that compares GitHub contribution graphs of two users. This is the **starting point** — you'll build the app step by step using GitHub Copilot.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Astro](https://img.shields.io/badge/Astro-v6-BC52EE?logo=astro&logoColor=white)](https://astro.build/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+Two developers enter. One reigns supreme. **Mona Mayhem** is a retro arcade-themed app that turns GitHub contribution graphs into an epic head-to-head battle — and building it is the workshop.
 
 ![Mona Mayhem Screenshot](https://github.com/user-attachments/assets/5eca79e2-cb9f-4e93-aa0d-23666ebde3b7)
 *What you'll build by the end of the workshop*
 
-## 📚 Workshop
+## ✨ What You'll Learn
+
+| # | Skill | Description |
+|---|-------|-------------|
+| 1 | **Context Engineering** | Teach Copilot about your codebase with instructions and clear constraints |
+| 2 | **Plan First** | Draft architecture before writing a single line of code |
+| 3 | **Agentic Implementation** | Let Copilot carry out multi-step coding work with your supervision |
+| 4 | **Iterative Design** | Use Copilot to transform visuals and refine interaction details |
+| 5 | **Parallel Workflows** | Split work across agents, sessions, or delegated tasks |
+
+## 🎯 Choose Your Track
 
 The workshop supports two tracks — follow the one that matches your preferred workflow:
 
-- **VS Code track** — Chat, Plan Mode, Agent Mode, background agents, and editor-native review loops
-- **CLI track** — `copilot`, `@file` context, `/plan`, autonomous edits, `/fleet`, `/delegate`, and `/review`
+| Track | Tools | Best For |
+|-------|-------|----------|
+| **VS Code** | Chat, Plan Mode, Agent Mode, background agents, review loops | Editor-first developers |
+| **CLI** | `copilot`, `@file`, `/plan`, `/fleet`, `/delegate`, `/review` | Terminal-first developers |
+
+## 📚 Workshop
 
 | Part | Title | Copilot Focus |
 |------|-------|---------------|
